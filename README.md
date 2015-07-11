@@ -8,4 +8,4 @@ From:
 
 To:
 
-![solarized dualmode](outputs/image_01.png)
+![solarized dualmode](outputs/image_0.png)
